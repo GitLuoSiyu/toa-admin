@@ -1,2 +1,24 @@
-# toa-admin
-企业后台管理框架toa-vue-admin
+# 企业级后台管理平台框架toa-admin
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
